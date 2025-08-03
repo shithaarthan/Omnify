@@ -31,8 +31,8 @@ Thank you for the opportunity and for reviewing my work.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourname/fitness-booking-api.git
-    cd fitness-booking-api
+    git clone https://github.com/shithaarthan/Omnify.git
+    cd Omnify
     ```
 
 2.  **Create a virtual environment and install dependencies:**
